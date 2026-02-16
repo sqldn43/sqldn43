@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Tuan Anh, I'm an IT student. I am passionate about creating great products and providing the best experiences for users.
+
+## Favourite Programming Language, Framework, Library
+* Languages: Java, PHP
+* Libary: ReactJS
+* Frameworks : Laravel
+## My favorite tools:
+* Editor: Visual Studio Code (VS Code)
+* Version Control: Git & GitHub
+
+**Contact me:** tuananhcepdn@gmail.com
