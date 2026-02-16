@@ -19,7 +19,7 @@ My name is Tuan Anh, I'm an IT student. I am passionate about creating great pro
 
 ## Favourite Programming Language, Framework, Library
 * Languages: Java, PHP
-* Libary: ReactJS
+* Library: ReactJS
 * Frameworks : Laravel
 ## My favorite tools:
 * Editor: Visual Studio Code (VS Code)
